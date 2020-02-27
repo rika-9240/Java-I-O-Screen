@@ -12,6 +12,6 @@ public class Screen_main{
         }
     }
     public static void main(String[] args) {
-        launch();
+            ScreenApplication.launch(args);
     }
 }
