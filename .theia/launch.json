@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Screen_main",
+            "request": "launch",
+            "mainClass": "Screen_main",
+            "projectName": "Java-I-O-Screen_bce30670"
+        }
+    ]
+}
